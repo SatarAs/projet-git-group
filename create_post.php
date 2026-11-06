@@ -37,3 +37,5 @@ if (!empty($title) && !empty($content)) {
 } else {
     echo "Le titre et le contenu sont obligatoires.";
 }
+
+?>

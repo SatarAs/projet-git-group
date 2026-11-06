@@ -13,7 +13,7 @@
          <label for="content">Contenue de l'article</label>
          <textarea name="content" id="content" required></textarea>
 
-        <label for="status">Statu</label>
+        <label for="status">Status</label>
         <select name="status" id="status" required>
             <option value="DRAFT">DRAFT</option>
             <option value="PUBLISHED">PUBLISHED</option>
